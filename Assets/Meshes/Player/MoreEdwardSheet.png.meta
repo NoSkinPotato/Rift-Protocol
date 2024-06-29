@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 8b32a5f1e9493e1468c6646027859d5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 333
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoreEdwardSheet_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2548
+        width: 171
+        height: 312
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.4899206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce427a89e04428947bdd07188363478b
+      internalID: -807690399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2548
+        width: 171
+        height: 327
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46825725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f88fc1adae6e41408f4d7e3c3d912de
+      internalID: -364605159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_2
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2548
+        width: 171
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5205992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23c7b37103a354984f2c183a23d00d
+      internalID: 627932244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2294
+        width: 362
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0651d8940c63b10468f27443955ea2a9
+      internalID: 58749111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1907
+        width: 388
+        height: 155
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289ea8eee099e844bf1024015e6074c
+      internalID: -568512780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1907
+        width: 388
+        height: 155
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98f11fa4bbe124ebb35ef5c5c9fbf8
+      internalID: 1299141571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1907
+        width: 388
+        height: 155
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbde179a038d24449f8b08d83e92b3c
+      internalID: 525590045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1907
+        width: 388
+        height: 155
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4331a3a3ca4d52c4eacc027de8e29e09
+      internalID: 1583847552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1873
+        width: 287
+        height: 272
+      alignment: 9
+      pivot: {x: 0.23713711, y: 0.40724945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b584779c95e38f478eebcd23d3b1b1b
+      internalID: 272972721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1840
+        width: 289
+        height: 305
+      alignment: 9
+      pivot: {x: 0.23713742, y: 0.468066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0aba8441472c4cbe6dd8e16b7e897
+      internalID: -193345601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1365
+        width: 289
+        height: 339
+      alignment: 9
+      pivot: {x: 0.24317141, y: 0.5159963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced36eb8844445648864da6813229879
+      internalID: 1846769549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1399
+        width: 289
+        height: 305
+      alignment: 9
+      pivot: {x: 0.24019235, y: 0.4628166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c53bce06e3434cb2149e99d161501
+      internalID: 1209801437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1432
+        width: 289
+        height: 272
+      alignment: 9
+      pivot: {x: 0.23783351, y: 0.3946412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906fd0db82dfee348934052256277bf5
+      internalID: 908373064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1466
+        width: 388
+        height: 155
+      alignment: 9
+      pivot: {x: 0.17647277, y: 0.47809663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5305a3fc7c7b4095c0aa75109ebb0
+      internalID: -1417862609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1466
+        width: 389
+        height: 155
+      alignment: 9
+      pivot: {x: 0.1792011, y: 0.47391474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df70344e586e6419c13b2b1edc5c73
+      internalID: 1714136206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 1482
+        width: 389
+        height: 139
+      alignment: 9
+      pivot: {x: 0.17832433, y: 0.41693512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40eef24938a9b48bafda3d0f1dd077
+      internalID: -1529222032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1115
+        width: 389
+        height: 156
+      alignment: 9
+      pivot: {x: 0.17962055, y: 0.37149125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222418aa3e1c32c44b1d09649a32f986
+      internalID: 262806996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1115
+        width: 388
+        height: 156
+      alignment: 9
+      pivot: {x: 0.17913614, y: 0.36393386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eff9b07448f5b40be6befd114eebe1
+      internalID: -603622273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1115
+        width: 388
+        height: 156
+      alignment: 9
+      pivot: {x: 0.17786777, y: 0.36458647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2553a69668f64aa516b09e733b639
+      internalID: 1632863419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1100
+        width: 390
+        height: 155
+      alignment: 9
+      pivot: {x: 0.18, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63da92cf0242a640929e01d5aebfc7e
+      internalID: -917934530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 659
+        width: 472
+        height: 204
+      alignment: 9
+      pivot: {x: 0.14865488, y: 0.35177132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e5402fcdaad04ea2026e47bd53c4f
+      internalID: -1807635332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 674
+        width: 445
+        height: 283
+      alignment: 9
+      pivot: {x: 0.15629897, y: 0.19898453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d17e1c96d3560b4d9acba595c46afcc
+      internalID: -11439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 674
+        width: 339
+        height: 205
+      alignment: 9
+      pivot: {x: 0.20715404, y: 0.27520156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c6cb8a72ddfa41b13f63fe0a4cc70
+      internalID: -304979565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 659
+        width: 372
+        height: 171
+      alignment: 9
+      pivot: {x: 0.18485613, y: 0.4150744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac97389168f4c84dbe6f35ee8ec6381
+      internalID: -2126727837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoreEdwardSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 658
+        width: 389
+        height: 155
+      alignment: 9
+      pivot: {x: 0.1779327, y: 0.46150964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b441dcc2ded2b448afedc8a447b428e
+      internalID: 1152670801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MoreEdwardSheet_0: -807690399
+      MoreEdwardSheet_1: -364605159
+      MoreEdwardSheet_10: 1846769549
+      MoreEdwardSheet_11: 1209801437
+      MoreEdwardSheet_12: 908373064
+      MoreEdwardSheet_13: -1417862609
+      MoreEdwardSheet_14: 1714136206
+      MoreEdwardSheet_15: -1529222032
+      MoreEdwardSheet_16: 262806996
+      MoreEdwardSheet_17: -603622273
+      MoreEdwardSheet_18: 1632863419
+      MoreEdwardSheet_19: -917934530
+      MoreEdwardSheet_2: 627932244
+      MoreEdwardSheet_20: -1807635332
+      MoreEdwardSheet_21: -11439182
+      MoreEdwardSheet_22: -314428653
+      MoreEdwardSheet_23: 590437697
+      MoreEdwardSheet_24: -304979565
+      MoreEdwardSheet_25: -2126727837
+      MoreEdwardSheet_26: 1152670801
+      MoreEdwardSheet_3: 58749111
+      MoreEdwardSheet_4: -568512780
+      MoreEdwardSheet_5: 1299141571
+      MoreEdwardSheet_6: 525590045
+      MoreEdwardSheet_7: 1583847552
+      MoreEdwardSheet_8: 272972721
+      MoreEdwardSheet_9: -193345601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

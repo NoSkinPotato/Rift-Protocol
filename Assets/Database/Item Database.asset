@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2f4c314b3a80841bb0331240e929e8, type: 3}
+  m_Name: Item Database
+  m_EditorClassIdentifier: 
+  items:
+  - name: Alcohol
+    itemObject: {fileID: 7307939452336829902, guid: f2beaaa34895eb44aa145fed651b7e78, type: 3}
+    forCrafting: 1
+    forConsumption: 0
+    description: A bottle of alcohol used to make Gauze or Molotovs.
+  - name: Booster
+    itemObject: {fileID: 1796549132697630712, guid: c3236e24b5d4cb340a5b649d9b138881, type: 3}
+    forCrafting: 1
+    forConsumption: 1
+    description: An injection that boosts stamina and combat effectivity
+  - name: Cloth
+    itemObject: {fileID: 7307939452336829902, guid: a7946abe37b04f9478b4470d6ac9c63d, type: 3}
+    forCrafting: 1
+    forConsumption: 0
+    description: A piece of fabric used to make Gauze or Molotovs
+  - name: Common Metal
+    itemObject: {fileID: 1098837267522918234, guid: 25f6f59700d87f34f836574d9e2d66cd, type: 3}
+    forCrafting: 1
+    forConsumption: 0
+    description: Metallic Resources used for a variety of creations including ammo
+      boxes and repairs
+  - name: Donut
+    itemObject: {fileID: 7307939452336829902, guid: c8d0efc6ab048c843b4ae89959bd1c3a, type: 3}
+    forCrafting: 0
+    forConsumption: 1
+    description: A good old jelly donut
+  - name: Gauze
+    itemObject: {fileID: 7724874060368959509, guid: da4e50f306ac28b488ade8fd24e2b6c8, type: 3}
+    forCrafting: 1
+    forConsumption: 1
+    description: A medical item that upon use, will slowly regenerate health for
+      a temporary amount of time.
+  - name: Glock
+    itemObject: {fileID: 8216082849740246560, guid: fec4886f1cbab6147a4a18d5aeb93799, type: 3}
+    forCrafting: 0
+    forConsumption: 0
+    description: Made in 1982, a versatile and flexible weapon used as a self-defense
+      tool
+  - name: Gun Powder
+    itemObject: {fileID: 7307939452336829902, guid: fc695b65e6d53ef41a407513665eaebd, type: 3}
+    forCrafting: 1
+    forConsumption: 0
+    description: a mixture of saltpeter, charcoal, and sulfur in specific proportions,
+      historically used as a propellant in firearms and explosives.
+  - name: Herbs Capsule
+    itemObject: {fileID: 8522864965745509658, guid: 6d27b3d9ad2281948aa5df7a86761909, type: 3}
+    forCrafting: 1
+    forConsumption: 1
+    description: A unique mix of medical plants that will heal scars and prevent
+      infection.\nImmediately increase health upon use
+  - name: Handgun Ammo
+    itemObject: {fileID: 1473359818796831418, guid: 43b41209024896746ad18e9f3887db10, type: 3}
+    forCrafting: 0
+    forConsumption: 0
+    description: Ammo used for the glock.
+  - name: Leaf
+    itemObject: {fileID: 4031651517272207888, guid: fd24453f63f17474d94fba0fed35494d, type: 3}
+    forCrafting: 1
+    forConsumption: 0
+    description: A plant that can give medical benefits when mixed together
+  - name: Medkit
+    itemObject: {fileID: 6921446600541179168, guid: 3f3706947e227d2489ae242bd25dd108, type: 3}
+    forCrafting: 0
+    forConsumption: 1
+    description: A complete medical package that permanently increases your maximum
+      health and stamina.
